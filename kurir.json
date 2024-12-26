@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676cab35f40fdd52fc4eeb86"},"kuririd":"475","nama_kurir":"ardian","email":"ardian@gmail.com","nomor_telepon":"0897688943","alamat":"jakarta","status":"aktif"}
+{"_id":{"$oid":"676cab75f40fdd52fc4eeb87"},"kuririd":"342","nama_kurir":"diyah","email":"diyah@gmail.com","nomor_telepon":"08953346782","alamat":"tangerang selatan","status":"aktif"}
+{"_id":{"$oid":"676cabacf40fdd52fc4eeb88"},"kuririd":"760","nama_kurir":"akbar","email":"akbar@gmail.com","nomor_telepon":"08657998233","alamat":"jakarta selatan","status":"tidak aktif"}
